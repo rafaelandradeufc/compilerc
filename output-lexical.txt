@@ -1,0 +1,10 @@
+token_delimiter_2 - ( - 1
+token_delimiter_3 - ) - 1
+token_delimiter_4 - { - 1
+token_delimiter_2 - ( - 3
+token_logical_operator_6 - == - 3
+token_delimiter_3 - ) - 3
+token_logical_operator_14 - = - 4
+token_mathematical_operator_0 - + - 4
+token_mathematical_operator_2 - * - 4
+$
